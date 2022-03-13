@@ -1,3 +1,3 @@
 # lueurTech-software-solution
 
-lueur-itask.netlify.app
+https://lueur-itask.netlify.app/
